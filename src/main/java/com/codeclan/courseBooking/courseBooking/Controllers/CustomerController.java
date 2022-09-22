@@ -22,3 +22,4 @@ public class CustomerController {
         return new ResponseEntity<>(customerRepository.findByBookingsCourseId(id) , HttpStatus.OK);
     }
 }
+;
