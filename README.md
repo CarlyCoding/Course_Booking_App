@@ -1,0 +1,1 @@
+This assignement involved building a simple course booking back-end. This involved creating a RESTful API that allowed connected clients to create course bookings and find information about the created bookings. 
